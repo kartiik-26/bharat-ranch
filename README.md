@@ -89,7 +89,7 @@ BharatRanch is a cutting-edge platform connecting farmers and buyers for bulk tr
 - Cloudinary account (for image storage)
 
 ### Backend Setup
-1. Navigate to backend directory:
+1. Navigate to the backend directory:
    ```bash
    cd backend
    ```
@@ -112,7 +112,7 @@ BharatRanch is a cutting-edge platform connecting farmers and buyers for bulk tr
    ```
 
 ### Frontend Setup
-1. Navigate to project root:
+1. Navigate to the project root:
    ```bash
    cd ..
    ```
@@ -124,7 +124,7 @@ BharatRanch is a cutting-edge platform connecting farmers and buyers for bulk tr
    ```
    REACT_APP_API_BASE_URL=http://localhost:5000
    ```
-4. Start development server:
+4. Start the development server:
    ```bash
    npm start
    ```
@@ -191,8 +191,8 @@ bharat-ranch/
 - `POST /equipment` - Add new equipment
 
 **Transactions:**
-- `POST /buy-requests` - Create buy request
-- `POST /borrow-requests` - Create borrow request
+- `POST /buy-requests` - Create a buy request
+- `POST /borrow-requests` - Create a borrow request
 
 
 ---
@@ -226,7 +226,7 @@ bharat-ranch/
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature')
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
