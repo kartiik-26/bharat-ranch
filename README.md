@@ -237,6 +237,7 @@ bharat-ranch/
 **Project Team**  
 - GitHub: [@jasjeev013](https://github.com/jasjeev013)
 - Email: jasjeev99@gmail.com
+- Gihub: [@kartiik-26](https://github.com/kartiik-26)
 
 **Project Link:** [https://github.com/jasjeev013/bharat-ranch](https://github.com/jasjeev013/bharat-ranch)
 
